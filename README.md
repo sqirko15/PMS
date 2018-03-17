@@ -7,5 +7,6 @@ Every patient can have his/her own profile, including his/her detailed health re
 
 Also, every doctor has his/her own profile, from where he can see his/her patients’ records and write new diagnoses or prescriptions for them. 
 
-Every action made by patient or doctor should be authorized by the receptionist, who correlates the activity between patients and doctors.  
+Every action made by patient or doctor should be authorized by the receptionist, who correlates the activity between patients and doctors. 
+
 Essentially, every patient and everyone in the polyclinic should benefit from this system, which is supposed to make their lives easier, by setting everything in order and removing unnecessary human errors from their daily activities.
